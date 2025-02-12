@@ -47,7 +47,7 @@ class ProductoController extends Controller {
     //Redirigiendo a la vista index.
     return redirect('/productos');
 
-}
+    }
 
 
     //Llama a vista para editar y mandamos los datos a update() ✔.
